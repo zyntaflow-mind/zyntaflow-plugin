@@ -1,0 +1,11 @@
+{
+  "name": "zyntaflow",
+  "version": "1.0.0",
+  "description": "Create on-brand social carousels, plan content calendars, build Instagram DM automations, manage link-in-bio pages, and analyze post performance.",
+  "contextFileName": "ZYNTAFLOW.md",
+  "mcpServers": {
+    "zyntaflow": {
+      "httpUrl": "https://app.zyntaflow.com/mcp"
+    }
+  }
+}

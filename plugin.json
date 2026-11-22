@@ -1,0 +1,35 @@
+{
+  "name": "zyntaflow",
+  "displayName": "Zynta Flow",
+  "version": "1.0.0",
+  "description": "Create on-brand social carousels, plan content calendars, build Instagram DM automations, manage link-in-bio pages, and analyze post performance.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Create an on-brand carousel draft about our latest product launch and save it to my calendar",
+    "Plan next week's Instagram and LinkedIn posts for my brand after showing credit costs",
+    "Analyze my top-performing Instagram posts from the last 90 days and suggest three follow-ups"
+  ],
+  "category": "Marketing",
+  "keywords": [
+    "zyntaflow",
+    "social-media",
+    "carousel",
+    "instagram",
+    "linkedin",
+    "tiktok",
+    "content-calendar",
+    "brand-kit",
+    "automations",
+    "link-in-bio",
+    "marketing",
+    "mcp"
+  ],
+  "author": {
+    "name": "Zynta Flow",
+    "email": "contato@zyntaflow.com",
+    "url": "https://www.zyntaflow.com"
+  },
+  "homepage": "https://www.zyntaflow.com/mcp",
+  "repository": "https://github.com/zyntaflow-mind/zyntaflow-plugin",
+  "license": "MIT"
+}

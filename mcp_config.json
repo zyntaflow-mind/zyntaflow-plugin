@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zyntaflow": {
+      "serverUrl": "https://app.zyntaflow.com/mcp"
+    }
+  }
+}
